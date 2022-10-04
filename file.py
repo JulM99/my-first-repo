@@ -1,6 +1,7 @@
 from tkinter.tix import Tree
 potato = 2
 apple = 3
+banana = 4
 
 print("Hello")
 input("Enter name")
