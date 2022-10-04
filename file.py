@@ -1,5 +1,5 @@
 from tkinter.tix import Tree
-
+potato = 2
 
 print("Hello")
 input("Enter name")
