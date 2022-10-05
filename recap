@@ -1,0 +1,13 @@
+#%%
+i = 0
+while i <= 4:
+    print(i)
+    i += 1
+
+#%%
+beatles = ["John","Paul","George","Ringo"]
+
+for name in beatles:
+    print(name)
+print(len(beatles))
+
